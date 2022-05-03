@@ -1,0 +1,5 @@
+- Create an awesome first webpage/site
+- Actually remember the command line shortcuts 
+- Remember to close the code
+- Write a good commit message(short, informative,imperative tone...)
+- Lets goooo!
