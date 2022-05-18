@@ -1,0 +1,14 @@
+@font-face {
+  font-family: quicksand;
+  src: url(../fontqs.otf/Quicksand-Regular.otf);
+}
+
+body{
+  background-color: #b9e1fc;
+  color: rgb(201, 116, 13);
+}
+
+.image{
+  height: auto;
+  width: auto;
+}

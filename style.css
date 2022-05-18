@@ -1,0 +1,14 @@
+@font-face {
+  font-family: quicksand;
+  src: url(../fontqs.otf/Quicksand-Regular);
+}
+
+body{
+  background-color: whitesmoke;
+  color: rgb(15, 13, 13);
+  text-align: center;
+}
+
+.list{
+  list-style: none;
+}
